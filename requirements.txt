@@ -1,0 +1,6 @@
+pandas
+pyodbc
+scikit-learn
+customtkinter
+matplotlib
+openpyxl

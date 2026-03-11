@@ -1,0 +1,5 @@
+{
+  "server": "(localdb)\\MSSQLLocalDB",
+  "database": "Fashion_AI_Market",
+  "trusted_connection": true
+}
