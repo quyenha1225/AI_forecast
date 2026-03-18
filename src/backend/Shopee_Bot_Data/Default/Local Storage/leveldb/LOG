@@ -1,0 +1,16 @@
+2026/03/18-10:02:12.206 5714 Reusing MANIFEST C:\AI_forecast\Application\New folder\Encommerce_AI_App\src\backend\Shopee_Bot_Data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/18-10:02:12.218 5714 Recovering log #11
+2026/03/18-10:02:12.219 5714 Level-0 table #14: started
+2026/03/18-10:02:12.231 5714 Level-0 table #14: 65140 bytes OK
+2026/03/18-10:02:12.239 5714 Delete type=0 #11
+2026/03/18-10:02:12.241 4d04 Compacting 4@0 + 0@1 files
+2026/03/18-10:02:12.264 4d04 Generated table #16@0: 29 keys, 66850 bytes
+2026/03/18-10:02:12.264 4d04 Compacted 4@0 + 0@1 files => 66850 bytes
+2026/03/18-10:02:12.266 4d04 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/18-10:02:12.268 4d04 Delete type=2 #7
+2026/03/18-10:02:12.268 4d04 Delete type=2 #10
+2026/03/18-10:02:12.268 4d04 Delete type=2 #12
+2026/03/18-10:02:12.269 4d04 Delete type=2 #14
+2026/03/18-10:06:15.268 4d04 Level-0 table #18: started
+2026/03/18-10:06:15.274 4d04 Level-0 table #18: 23031 bytes OK
+2026/03/18-10:06:15.276 4d04 Delete type=0 #15

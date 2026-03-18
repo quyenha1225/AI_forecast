@@ -1,0 +1,10 @@
+2026/03/18-09:57:14.707 5b7c Reusing MANIFEST C:\AI_forecast\Application\New folder\Encommerce_AI_App\src\backend\Shopee_Bot_Data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/18-09:57:14.717 5b7c Recovering log #8
+2026/03/18-09:57:14.717 5b7c Level-0 table #10: started
+2026/03/18-09:57:14.874 5b7c Level-0 table #10: 24522 bytes OK
+2026/03/18-09:57:14.881 5b7c Recovering log #10
+2026/03/18-09:57:14.894 5b7c Reusing old log C:\AI_forecast\Application\New folder\Encommerce_AI_App\src\backend\Shopee_Bot_Data\Default\Local Storage\leveldb/000010.log 
+2026/03/18-09:57:14.905 5b7c Delete type=0 #8
+2026/03/18-10:01:16.852 450c Level-0 table #12: started
+2026/03/18-10:01:16.862 450c Level-0 table #12: 24799 bytes OK
+2026/03/18-10:01:16.867 450c Delete type=0 #10
